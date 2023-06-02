@@ -1,0 +1,233 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #faf5f5;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+.cv-photo {
+    margin-top: 25px;
+}
+
+.header-primary {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 26px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.header-secondary {
+    color: #ffffff;
+    margin-top: 50px;
+    margin-bottom: -2px;
+    font-size: 30px;
+}
+
+.header-tertiary {
+    color: #fb6d3a;
+    font-weight: 400;
+    font-size: 21px;
+    margin-bottom: 14px;
+    margin-top: 24px;
+}
+
+.contact-links {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 34px;
+    text-decoration: none;
+}
+
+.skills-normal-font {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 14px;
+    text-decoration: none;
+    margin-bottom: 6px;
+}
+
+.skills-python-font {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 14px;
+    text-decoration: none;
+    margin-bottom: 6px;
+}
+
+.bold {
+    font-weight: 700;
+    width: 26px;
+    height: 48px;
+    left: 80px;
+    top: 520px;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.contact-block {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.tech-skills-block {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.soft-skills-block {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+main {
+    padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+    width: 460px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: -80px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list-primary {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 18px;
+    padding-left: 0;
+    list-style-position: inside;
+    color: #000000;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 1200px;
+}
+
+.list-primary-item-language {
+    margin-bottom: 100px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.job-name {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 11px;
+}
+
+.degree-name {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 11px;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 15px;
+    color: #1a1a1a;
+}
+
+.job-list {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.formule {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #595959;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: -80px;
+}
+
+.projects-links {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #0645ad;
+    padding-left: 0;
+    list-style-position: inside;
+    margin-top: 0px;
+
+}
